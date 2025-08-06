@@ -1,4 +1,3 @@
-# NYC-Urban-Energy-Digital-Twin
 This project explores rooftop solar potential across buildings in NYC’s ZIP code 10036 (Times Square / Midtown West), using openly available spatial data and solar radiation models.
 
 The workflow integrates:
